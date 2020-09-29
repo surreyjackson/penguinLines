@@ -17,7 +17,7 @@
 
 path
 {
-    stroke:gray;
+    stroke:grey;
     fill:none;
     stroke-width:3;
 }
@@ -26,5 +26,10 @@ path
 {
     stroke:gold;
     stroke-width:6;
+    opacity:1;
 }
 
+.fade
+{
+    opacity:.1;
+}
